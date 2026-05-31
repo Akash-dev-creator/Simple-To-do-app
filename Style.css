@@ -1,0 +1,62 @@
+body {
+        background-color:skyblue;
+        }
+      input {
+       position:relative;
+       top:20px;
+       left:25px;
+       height:40px;
+       width:300px;
+       background-color:;
+       border:1px solid gray;
+       border-radius:10px;
+       padding-left:15px;
+      }
+      b {
+        position:relative;
+        top:80px;
+        right:30px;
+        font-size:25px;
+      }
+      .add-btn{
+        position:relative;
+        left:260px;
+        top:40px;
+        border:1px solid gray;
+        height:40px;
+        width:50px;
+        border-radius:10px;
+      }
+      .delete-btn {
+        margin-left: 30px;
+        width:50px;
+        height:30px;
+        background-color:black;
+        color:white;
+        border:none;
+        border-radius:5px;
+      }
+      .complete-btn {
+    margin-left:100px;
+    width:50px;
+    height:30px;
+    background-color:black;
+    color:white;
+    border:none;
+    border-radius:5px;
+      }
+      .completed {
+    text-decoration: line-through;
+    color: red;
+      }
+      ul {
+        position:relative;
+        top:80px;
+        left:35px;
+        color:white;
+      }
+      .add-btn:active {
+        transform:scale(0.95);
+         box-shadow:0 0 15px red;
+         transition:0.2s;
+      }
