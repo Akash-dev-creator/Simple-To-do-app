@@ -3,10 +3,6 @@
 
 A simple and user-friendly To-Do List application built using HTML, CSS, and JavaScript.
 
-## 🚀 Live Demo
-
-🔗 https://basic-calculator-akash.netlify.app
-
 ## ✨ Features
 
 - Add new tasks
@@ -28,8 +24,6 @@ A simple and user-friendly To-Do List application built using HTML, CSS, and Jav
 ├── script.js  
 └── README.md  
 
-## ▶️ Getting Started
+## 🚀 Live Demo
 
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
+🔗 https://a-simple-to-do-website.netlify.app
